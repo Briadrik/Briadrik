@@ -9,11 +9,11 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-I work at the intersection of **data analytics and internal audit** at a multi-country fintech group. My job is to make audit evidence-based and automated — I build the dashboards, pipelines, and AI tools that replace manual processes.
+I work at the intersection of **data analytics and internal audit** at a multi-country fintech group. My job is to make audit evidence-based and automated. I build the dashboards, pipelines, and AI tools that replace manual processes.
 
 Day-to-day: extracting and validating data from core banking and digital lending platforms, building real-time executive dashboards in Power BI and Superset, and shipping production tools like an LLM-based OCR system that processes high-volume confidential documents.
 
-Outside of work I apply that same rigour to ML projects — from regression and classification to NLP, neural networks, BERT embeddings, and RAG pipelines.
+Outside of work I apply that same rigour to ML projects  from regression and classification to NLP, neural networks, BERT embeddings, and RAG pipelines.
 
 ---
 
@@ -23,7 +23,7 @@ Outside of work I apply that same rigour to ML projects — from regression and 
 |---|---|
 | [ml-concepts](https://github.com/Briadrik/ml-concepts) | Concept-focused notebooks — RAG, NLP, neural networks, embeddings, regression |
 | [data-projects](https://github.com/Briadrik/data-projects) | End-to-end ML projects on real datasets — KNN regression, classification, web scraping |
-| audit-automation 🔨 | Real-time audit pipeline — Kafka → ClickHouse → Superset *(in progress)* |
+| audit-automation 🔨 | Real-time audit pipeline — Kafka → ClickHouse → Metabase *(continous)* |
 
 ---
 
