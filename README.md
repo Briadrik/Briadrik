@@ -22,7 +22,6 @@ Outside of work I apply that same rigour to ML projects  from regression and cla
 | Repo | What it is |
 |---|---|
 | [ml-concepts](https://github.com/Briadrik/ml-concepts) | Concept-focused notebooks — RAG, NLP, neural networks, embeddings, regression |
-| [data-projects](https://github.com/Briadrik/data-projects) | End-to-end ML projects on real datasets — KNN regression, classification, web scraping |
 | [audit-automation](https://github.com/Briadrik/continuous-audit-platform ) 🔨 | Real-time audit pipeline — Kafka → ClickHouse → Metabase *(continous)* |
 
 ---
